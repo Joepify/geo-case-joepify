@@ -1,0 +1,20 @@
+{
+  "title": "Case: GEO/AEO-optimalisatie van een Nederlandse webstudio (oktober 2026)",
+  "upload_type": "publication",
+  "description": "Case study with measured before/after scores of generative engine optimization and answer engine optimization on joepify.nl, including the finding that a hosting firewall blocked AI training crawlers despite robots.txt. Made by Joepify, Rotterdam: https://www.joepify.nl",
+  "creators": [
+    {
+      "name": "Assaidi, Ayoub",
+      "affiliation": "Joepify"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "GEO",
+    "AEO",
+    "SEO",
+    "AI crawlers",
+    "case study"
+  ],
+  "publication_type": "other"
+}
